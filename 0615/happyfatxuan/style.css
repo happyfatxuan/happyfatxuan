@@ -1,0 +1,35 @@
+
+   
+    body{
+        background-color: beige;
+        color: brown;
+    }
+    
+    h1{
+        color: aquamarine;
+    }
+    
+    nav{
+        background-color: rgb(255, 0, 76);
+        text-align: right;
+    }
+    
+    nav li{
+        list-style-type:none;
+        display: inline-block;
+    }
+    
+    nav li a{
+        display:block;
+        text-decoration: none;
+        padding: 10px;
+        color: aliceblue;
+    }
+    nav ul{
+        margin:0px;
+    }
+    nav li a:hover{
+        background-color: bisque;
+        color: blueviolet;
+        transition:background-color 2s ease-in-out，color 2s;
+    }
