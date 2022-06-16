@@ -1,0 +1,70 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>108111226林承萱</title>
+    <link rel="shortcut icon" href="img/0ecbc447e2f04113a73034676d5dbacf.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>  HAPPYFAT  </h1>
+    <p>介紹一下快樂的胖子</p>
+    <ul>
+            <li><a href="#container">第一站:關於胖子</a></li>
+            <li><a href="#second">第二站:起始點</a></li>
+            <li><a href="#three">第三站:成長過程</a></li>
+            <li><a href="#for">第四站:終點站</a></li>
+            <li><a href="https://www.figma.com/">figma</a></li>
+    </ul>
+   
+<section id="container">
+        <h2>第一站</h2>
+                <h3>自我介紹</h3>
+        <img src="img/IMG_0016.jpg" href="xuan" width="350" height="250">
+        <p>我是林承萱</p>
+        <p>來自我媽的肚子</p>
+        <p>就讀亞東科技大學</p>
+        <p>今年是頹廢又努力的大三生以上</p>
+    </section>
+    
+<section id="second">   
+        <h2>第二站</h2>
+               <h3>胖子的起始點</h3>
+        <img src="img/IMG_4544.jpg" href="雞蛋糕" width="350" height="300">
+        <p>想吃遍各地好吃的美食</p>
+        <p>所以決定從簡單小巧的雞蛋糕開始</p>
+        <li><a href="https://kafkalin.com/chenbenjia/" target="_blank">真本家</a></li>
+        
+<section id="three">        
+        <h2>第三站</h2>
+               <h3>胖子的成長過程</h3>
+        <img src="img/6A496391-3FC9-4750-9D32-41FA9F8DE373.jpg" href="藏壽司" width="350" height="200">
+        <p>然後沒有想到吃著吃著就越吃越多了</p>
+        <p>雖然本身的食量就不小，但好像已經超乎我的想像</p>
+        <li><a href="https://kurasushi.tw/" target="_blank">藏壽司</a></li>
+        
+
+<section id="for">   
+        <h2>第四站</h2>
+              <h3>胖子的終點站</h3>
+        <img src="img/52C28658-DDBA-4340-B8ED-33B2B969ED9B.jpg" href="烤肉" width="350" height="150">
+        <img src="img/E7EDF34C-43CC-4C48-9B8F-93935D9C7E45.jpg" href="火鍋" width="350" height="150">
+        <p>雖然吃了這麼多，也變胖了不少</p>
+        <p>可是為了不放棄更多的美食，決定繼續往前邁進</p>
+        <p>也就是說胖子的終點沒有盡頭</p>
+        <li><a href="https://www.holkee.com/175da1b6bb715f275921" target="_blank">焼肉 LIKE</a></li>
+        <li><a href="https://www.jhujian.com.tw/" target="_blank">築間</a></li>
+        
+        
+        <h3>以上是關於我的故事</h3>
+        <h3>想知道更多關於我的消息</h3>
+        <h3>以下有更多資訊</h3>
+
+        <d1>
+            <dt>暱稱 ：</dt>
+            <li><a href="https://www.instagram.com/"target="_blank">快樂胖子</a></li>
+            <dt>美食生活：</dt>
+            <li><a href="https://www.instagram.com/" target="_blank">快樂胖子</a></li>
+        </d1>
+</body>
+</html>
